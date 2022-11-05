@@ -1,7 +1,7 @@
 import os as a
 import telebot
 import datetime as date
-import url as ad
+from module.url import url as ad
 
 a.system("clear")
 api = "5569033372:AAFoIqF7K606cOA6AtlMmC0NVtWqbVRiy74"
